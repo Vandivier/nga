@@ -1,3 +1,5 @@
+Todo list + priority + estimation + individual assignment = timeline
+
 Nga is the Angular Agile Tool. Use it to facilitate planning, tasking, scrum meetings, and demos.
 
 Prerequisites:
